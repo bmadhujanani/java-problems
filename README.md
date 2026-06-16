@@ -63,6 +63,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
 | Problem Name | Difficulty |
