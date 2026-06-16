@@ -24,6 +24,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
