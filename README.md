@@ -24,6 +24,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
