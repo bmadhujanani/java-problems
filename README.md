@@ -21,12 +21,14 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -60,4 +62,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
