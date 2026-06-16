@@ -16,6 +16,7 @@
 | [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
@@ -103,4 +104,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
