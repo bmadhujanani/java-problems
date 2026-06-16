@@ -5,12 +5,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/bmadhujanani/java-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
 ## Design
