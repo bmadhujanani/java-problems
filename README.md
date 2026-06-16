@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/bmadhujanani/java-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -38,4 +39,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
