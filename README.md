@@ -30,6 +30,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -112,4 +114,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
