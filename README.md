@@ -34,6 +34,7 @@
 | [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Array
@@ -46,6 +47,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
@@ -92,6 +94,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
