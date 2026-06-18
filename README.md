@@ -48,6 +48,7 @@
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Matrix
@@ -125,5 +126,6 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 <!---LeetCode Topics End-->
