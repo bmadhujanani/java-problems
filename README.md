@@ -156,5 +156,6 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/bmadhujanani/java-problems/tree/main/0175-combine-two-tables/) | Easy |
 | [0184-department-highest-salary](https://github.com/bmadhujanani/java-problems/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
