@@ -153,4 +153,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0184-department-highest-salary](https://github.com/bmadhujanani/java-problems/tree/main/0184-department-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
