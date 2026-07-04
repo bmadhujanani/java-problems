@@ -20,6 +20,7 @@
 | [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/bmadhujanani/java-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
