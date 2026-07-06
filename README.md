@@ -32,6 +32,7 @@
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +69,7 @@
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
