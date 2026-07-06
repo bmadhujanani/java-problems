@@ -33,6 +33,7 @@
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
