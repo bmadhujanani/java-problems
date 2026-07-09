@@ -1,0 +1,184 @@
+# java-problems
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/bmadhujanani/java-problems/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/bmadhujanani/java-problems/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0029-divide-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
+| [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bmadhujanani/java-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bmadhujanani/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0058-length-of-last-word](https://github.com/bmadhujanani/java-problems/tree/main/0058-length-of-last-word/) | Easy |
+| [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bmadhujanani/java-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
+| [0283-move-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0283-move-zeroes/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/bmadhujanani/java-problems/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0283-move-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/bmadhujanani/java-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/bmadhujanani/java-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bmadhujanani/java-problems/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/bmadhujanani/java-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/bmadhujanani/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bmadhujanani/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+| [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+| [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/bmadhujanani/java-problems/tree/main/0015-3sum/) | Medium |
+| [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/bmadhujanani/java-problems/tree/main/0206-reverse-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/bmadhujanani/java-problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/bmadhujanani/java-problems/tree/main/1603-design-parking-system/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/bmadhujanani/java-problems/tree/main/0011-container-with-most-water/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bmadhujanani/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/bmadhujanani/java-problems/tree/main/0022-generate-parentheses/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/bmadhujanani/java-problems/tree/main/0175-combine-two-tables/) | Easy |
+| [0184-department-highest-salary](https://github.com/bmadhujanani/java-problems/tree/main/0184-department-highest-salary/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+<!---LeetCode Topics End-->
