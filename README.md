@@ -25,6 +25,7 @@
 | [0058-length-of-last-word](https://github.com/bmadhujanani/java-problems/tree/main/0058-length-of-last-word/) | Easy |
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
+| [0345-reverse-vowels-of-a-string](https://github.com/bmadhujanani/java-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
 ## Simulation
@@ -48,6 +49,7 @@
 | [0125-valid-palindrome](https://github.com/bmadhujanani/java-problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/bmadhujanani/java-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Array
 | Problem Name | Difficulty |
