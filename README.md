@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0069-sqrtx](https://github.com/bmadhujanani/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/bmadhujanani/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
