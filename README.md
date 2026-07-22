@@ -71,6 +71,7 @@
 | [0162-find-peak-element](https://github.com/bmadhujanani/java-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
@@ -87,6 +88,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/bmadhujanani/java-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Dynamic Programming
@@ -172,6 +174,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/bmadhujanani/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0162-find-peak-element](https://github.com/bmadhujanani/java-problems/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/bmadhujanani/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/bmadhujanani/java-problems/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -189,4 +192,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
