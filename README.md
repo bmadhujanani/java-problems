@@ -31,6 +31,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/bmadhujanani/java-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+| [1796-second-largest-digit-in-a-string](https://github.com/bmadhujanani/java-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
+| [1796-second-largest-digit-in-a-string](https://github.com/bmadhujanani/java-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
