@@ -10,6 +10,7 @@
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/0029-divide-two-integers/) | Medium |
 | [0069-sqrtx](https://github.com/bmadhujanani/java-problems/tree/main/0069-sqrtx/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
