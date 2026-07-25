@@ -15,6 +15,7 @@
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/bmadhujanani/java-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bmadhujanani/java-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@
 | [0088-merge-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/bmadhujanani/java-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
