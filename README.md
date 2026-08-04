@@ -85,6 +85,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/bmadhujanani/java-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
+| [3731-find-missing-elements](https://github.com/bmadhujanani/java-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/bmadhujanani/java-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
+| [3731-find-missing-elements](https://github.com/bmadhujanani/java-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmadhujanani/java-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/bmadhujanani/java-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
