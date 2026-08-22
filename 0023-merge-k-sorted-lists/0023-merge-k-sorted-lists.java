@@ -14,7 +14,6 @@ class Solution {
         PriorityQueue<ListNode> pq =
             new PriorityQueue<>((a, b) -> a.val - b.val);
 
-        // Add first node of every list
         for (ListNode node : lists) {
             if (node != null) {
                 pq.add(node);
@@ -26,14 +25,11 @@ class Solution {
 
         while (!pq.isEmpty()) {
 
-            // Get smallest node
             ListNode node = pq.poll();
 
-            // Add it to answer
             current.next = node;
             current = current.next;
 
-            // Add next node from same list
             if (node.next != null) {
                 pq.add(node.next);
             }
