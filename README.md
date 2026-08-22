@@ -151,6 +151,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0206-reverse-linked-list](https://github.com/bmadhujanani/java-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
 ## Hash Function
@@ -203,6 +204,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -216,4 +218,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bmadhujanani/java-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/bmadhujanani/java-problems/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
