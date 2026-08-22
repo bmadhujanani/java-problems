@@ -15,6 +15,7 @@
 | [0231-power-of-two](https://github.com/bmadhujanani/java-problems/tree/main/0231-power-of-two/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
 | [0509-fibonacci-number](https://github.com/bmadhujanani/java-problems/tree/main/0509-fibonacci-number/) | Easy |
+| [2235-add-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/2235-add-two-integers/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bmadhujanani/java-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/bmadhujanani/java-problems/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
