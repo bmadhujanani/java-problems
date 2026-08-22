@@ -34,6 +34,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/bmadhujanani/java-problems/tree/main/0211-design-add-and-search-words-data-structure/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/bmadhujanani/java-problems/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/bmadhujanani/java-problems/tree/main/0412-fizz-buzz/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bmadhujanani/java-problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/bmadhujanani/java-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
 ## Simulation
@@ -128,6 +129,7 @@
 | [0169-majority-element](https://github.com/bmadhujanani/java-problems/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/bmadhujanani/java-problems/tree/main/0205-isomorphic-strings/) | Easy |
 | [0705-design-hashset](https://github.com/bmadhujanani/java-problems/tree/main/0705-design-hashset/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bmadhujanani/java-problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bmadhujanani/java-problems/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1396-design-underground-system](https://github.com/bmadhujanani/java-problems/tree/main/1396-design-underground-system/) | Medium |
 | [1796-second-largest-digit-in-a-string](https://github.com/bmadhujanani/java-problems/tree/main/1796-second-largest-digit-in-a-string/) | Easy |
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bmadhujanani/java-problems/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
