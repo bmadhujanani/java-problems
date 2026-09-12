@@ -91,6 +91,7 @@
 | [1920-build-array-from-permutation](https://github.com/bmadhujanani/java-problems/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/bmadhujanani/java-problems/tree/main/1929-concatenation-of-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/bmadhujanani/java-problems/tree/main/3731-find-missing-elements/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/bmadhujanani/java-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +102,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/bmadhujanani/java-problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bmadhujanani/java-problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/bmadhujanani/java-problems/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/bmadhujanani/java-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
