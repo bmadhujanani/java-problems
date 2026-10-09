@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/bmadhujanani/java-problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/bmadhujanani/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/bmadhujanani/java-problems/tree/main/0029-divide-two-integers/) | Medium |
+| [0066-plus-one](https://github.com/bmadhujanani/java-problems/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/bmadhujanani/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/bmadhujanani/java-problems/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/bmadhujanani/java-problems/tree/main/0189-rotate-array/) | Medium |
@@ -73,6 +74,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/bmadhujanani/java-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0054-spiral-matrix](https://github.com/bmadhujanani/java-problems/tree/main/0054-spiral-matrix/) | Medium |
+| [0066-plus-one](https://github.com/bmadhujanani/java-problems/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/bmadhujanani/java-problems/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bmadhujanani/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bmadhujanani/java-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
